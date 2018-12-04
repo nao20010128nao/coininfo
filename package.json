@@ -1,5 +1,5 @@
 {
-  "name": "coininfo",
+  "name": "@mangacoin-explore/coininfo",
   "version": "4.1.0",
   "description": "JavaScript component for crypto currency specific information.",
   "license": "MIT",
